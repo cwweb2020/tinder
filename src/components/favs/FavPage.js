@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './favs.module';
+import styles from './favs.module.css';
 
 
 

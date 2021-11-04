@@ -1,0 +1,12 @@
+var token=dosi9099ei203932i9
+GET https://api.github.com/repos/jquery/jquery/issues/1234/comments
+
+###
+POST https://api.github.com/repos/jquery/jquery/issues/1234/comments{{}}
+Content-Type: application/json
+
+{
+  "firsname": "",
+  "lastname": "dddd"
+}
+
